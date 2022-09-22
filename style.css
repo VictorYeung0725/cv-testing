@@ -62,6 +62,8 @@ a:hover {
 .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 20px;
+  position:fixed;
+  top:0;
 }
 
 .skill-row {
