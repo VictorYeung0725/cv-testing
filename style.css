@@ -21,12 +21,6 @@ h2 {
 
 }
 
-.contact-me h2{
-  position: fixed;
-  right:80px;
-  bottom: 50px;
-}
-
 h3 {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
@@ -75,14 +69,8 @@ a:hover {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
-  position:relative;
 }
 
-.absolute {
-  position: absolute;
-  left: 125px;
-  top:100px;
-}
 
 .pro {
   text-decoration: underline;
@@ -133,6 +121,8 @@ a:hover {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
+
+
 
 .btn:hover {
   background: #30e3cb;
