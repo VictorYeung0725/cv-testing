@@ -5,4 +5,23 @@
   font-family: 'Hind', sans-serif;
   font-family: 'Roboto', sans-serif;
   background-color: antiquewhite;
+  font-size: 20px;
+}
+
+.main {
+  width:60%;
+  margin:auto;
+  padding-bottom: 2rem;
+}
+
+.education {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  line-height: 1rem;
+}
+
+.position {
+  display:flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
 }
